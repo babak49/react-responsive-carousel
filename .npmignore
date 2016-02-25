@@ -1,0 +1,7 @@
+.*
+example
+npm-debug.log
+package.json
+src
+webpack.config.js
+webpack.config.dist.js
