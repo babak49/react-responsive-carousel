@@ -4,7 +4,7 @@ const path = require('path');
 
 config.devtool = '';
 config.entry = {
-  carousel: path.resolve(__dirname, 'src/Slider.js')
+  carousel: path.resolve(__dirname, 'src/Carousel.js')
 };
 config.output = {
   filename: 'index.js',
